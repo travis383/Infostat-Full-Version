@@ -238,4 +238,4 @@ This repository serves as the official landing page for Infostat. The software i
 **Get the most recent version of Infostat today!**
 
 ---
-**Last updated:** 2026-10-14 11:08:35 UTC
+**Last updated:** 2026-10-14 16:29:44 UTC
